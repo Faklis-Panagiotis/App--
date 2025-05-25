@@ -1,0 +1,59 @@
+{
+	"info": {
+		"_postman_id": "acf130d5-7eef-41c2-b608-ea819ff11509",
+		"name": "app-κρατησεων",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "45286276",
+		"_collection_link": "https://panagiotis-1.postman.co/workspace/Team-Workspace~e6622668-ef43-4486-8375-00a63ae52e78/collection/45286276-acf130d5-7eef-41c2-b608-ea819ff11509?action=share&source=collection_link&creator=45286276"
+	},
+	"item": [
+		{
+			"name": "register",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "σύνδεση χρήστη",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Λίστα Εστιατορίων",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Δημιουργία Κράτησης",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Στοιχεία Κράτησης",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Διαγραφή Κράτησης",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
